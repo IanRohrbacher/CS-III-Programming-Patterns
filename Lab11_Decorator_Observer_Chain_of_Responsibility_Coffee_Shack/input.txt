@@ -1,0 +1,56 @@
+l
+c
+c
+c
+d
+order one
+l
+c
+s
+d
+order two
+s
+d
+order three
+m
+h
+d
+order four
+m
+d
+order five
+l
+d
+order six
+m
+c
+c
+h
+d
+order seven
+s
+s
+s
+s
+s
+s
+s
+s
+d
+order eight
+s
+s
+c
+s
+c
+d
+order nine
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
