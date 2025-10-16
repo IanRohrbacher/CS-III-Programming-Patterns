@@ -1,5 +1,5 @@
-# CS-III-Programming-Patterns
- Spring 2025 — CS CS 44001: Data Structures — Class Assignments 
+# CS III Programming Patterns
+ Spring 2025 — CS 44001: Data Structures — Class Assignments 
 >*Created, ran, and tested on Kent State University's wasp/hornet server*
 
 
